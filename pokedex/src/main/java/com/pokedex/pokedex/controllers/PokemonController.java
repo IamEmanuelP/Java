@@ -1,8 +1,6 @@
 package com.pokedex.pokedex.controllers;
 
 import com.pokedex.pokedex.models.Pokemon;
-import com.pokedex.pokedex.repositories.PokemonTypes;
-import com.pokedex.pokedex.services.PokemonDecorator;
 import com.pokedex.pokedex.services.PokemonService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.*;
