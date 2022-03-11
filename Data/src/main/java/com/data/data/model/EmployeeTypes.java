@@ -1,4 +1,4 @@
-package com.async.async.model;
+package com.data.data.model;
 
 import java.util.List;
 

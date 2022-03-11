@@ -1,4 +1,4 @@
-package com.async.async.model;
+package com.data.data.model;
 
 import java.io.Serializable;
 import java.util.List;
@@ -12,7 +12,7 @@ public class EmployeeType implements Serializable {
         return typeEmployee;
     }
 
-    public void setType(List<Integer> type){
+    public void setType(String type){
         this.typeEmployee = typeEmployee;
     }
 
